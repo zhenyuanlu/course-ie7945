@@ -1,19 +1,19 @@
-# IE7945: Artificial Intellegence / Machine Learning Master's Project
+# IE7945: AI/ML Master's Project
 
 Here we will document the progress of the project and share the resources.
 
 For this course we only have two places to find the resources and information:
 
-- Course Webpage/Syllabus: https://zhenyuanlu.com/courses/ie7945-van-fa24/
-- This repository: https://github.com/zhenyuanlu/course-ie7945
+- **Course Webpage/Syllabus**: https://zhenyuanlu.com/courses/ie7945-van-fa24/
+- **This repository**: https://github.com/zhenyuanlu/course-ie7945
 
 ## Getting Started
 
-$\LaTeX$ Editors
+$\LaTeX$ **Editors**
 - [**Overleaf**](https://www.overleaf.com/) (Preferred for collaboration, you can log in with your northeastern email)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-**$\LaTeX$ Template**
+$\LaTeX$ **Template**
 - We will use the [[**CVPR 2025**](https://github.com/cvpr-org/author-kit/archive/refs/tags/CVPR2025-v3(latex).zip)] templates for the paper, please download it to the local and then upload it to Overleaf.
 
 **Git Repository**
