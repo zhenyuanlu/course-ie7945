@@ -1,5 +1,5 @@
 # IE7945: AI/ML Master's Project
-[latex-logo]: https://github.com/zhenyuanlu/course-ie7945/blob/main/misc/LaTeX_logo.svg
+[latex-logo]: https://raw.githubusercontent.com/zhenyuanlu/course-ie7945/ae29cd30b301b1b68a7e780728477f6b8e572693/misc/LaTeX_logo.svg
 
 Here we will document the progress of the project and share the resources.
 
