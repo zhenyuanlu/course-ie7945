@@ -9,7 +9,7 @@ For this course we only have two places to find the resources and information:
 
 ## Getting Started
 
-**$\LaTeX$ Editors**
+$\LaTeX$ Editors
 - [**Overleaf**](https://www.overleaf.com/) (Preferred for collaboration, you can log in with your northeastern email)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
