@@ -1,4 +1,5 @@
 # IE7945: AI/ML Master's Project
+[latex-logo]: https://github.com/zhenyuanlu/course-ie7945/blob/main/misc/LaTeX_logo.svg
 
 Here we will document the progress of the project and share the resources.
 
@@ -9,11 +10,11 @@ For this course we only have two places to find the resources and information:
 
 ## Getting Started
 
-$\LaTeX$ **Editors**
+<img src="[latex-logo]" alt="LaTeX" width="50"/> **Editors**
 - [**Overleaf**](https://www.overleaf.com/) (Preferred for collaboration, you can log in with your northeastern email)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-$\LaTeX$ **Template**
+<img src="[latex-logo]" alt="LaTeX" width="50"/> **Template**
 - We will use the [[**CVPR 2025**](https://github.com/cvpr-org/author-kit/archive/refs/tags/CVPR2025-v3(latex).zip)] templates for the paper, please download it to the local and then upload it to Overleaf.
 
 **Git Repository**
