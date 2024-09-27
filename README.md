@@ -7,20 +7,19 @@ For this course we only have two places to find the resources and information:
 - **Course Webpage/Syllabus**: https://zhenyuanlu.com/courses/ie7945-van-fa24/
 - **This repository**: https://github.com/zhenyuanlu/course-ie7945
 
+## Table of Contents
+
+- [IE7945: AI/ML Master's Project](#ie7945-aiml-masters-project)
+  - [Table of Contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+  - [Project Proposal](#project-proposal)
+
 ## Getting Started
 
-<img src="https://raw.githubusercontent.com/zhenyuanlu/course-ie7945/746208e04c35b596d1cc7da776526c82545d0afa/misc/LaTeX_logo.svg" alt="LaTeX" width="50"/> **Editors**
-- [**Overleaf**](https://www.overleaf.com/) (Preferred for collaboration, you can log in with your northeastern email)
-- [Visual Studio Code](https://code.visualstudio.com/)
+Go to the [[Course Logistics]](./course_logistics/logistics.md) to get started with the course.                           
 
-<img src="https://raw.githubusercontent.com/zhenyuanlu/course-ie7945/746208e04c35b596d1cc7da776526c82545d0afa/misc/LaTeX_logo.svg" alt="LaTeX" width="50"/> **Template**
-- We will use the [[**CVPR 2025**](https://github.com/cvpr-org/author-kit/archive/refs/tags/CVPR2025-v3(latex).zip)] templates for the paper, please download it to the local and then upload it to Overleaf.
+## Project Proposal
 
-**Git Repository**
-- As this is a group project, we will use Github for version control. Please register your account on [[**Github**](https://github.com/)]
+Go to the [[Project Proposal Template]](./project_materials/project_proposal_template.md) to see the project proposal template. 
 
-**Project Management**
-- To understand how to manage the project in industry, we will use We will use [[**Jira**](https://ie7945fa24.atlassian.net/jira/software/projects/VANFA24/boards/1/backlog?epics=visible&atlOrigin=eyJpIjoiMGRlNTBlN2E3ZGE3NDBiZTg2YmQzY2NiNDA2MDA1NjQiLCJwIjoiaiJ9)] for sprint planning and tracking . You will receive an invitation to join the project management tool.
 
-**Portfolio**
-- If you are interested in creating a portfolio, you can use [[**Github Pages**](https://pages.github.com/)], this is optional but encouraged. 
