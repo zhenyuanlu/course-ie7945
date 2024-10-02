@@ -1,4 +1,5 @@
-# **Capstone Project Proposal**
+# **IE7945: Capstone Project Proposal**
+*Instructor: Zhenyuan Lu*
 
 ## **1. Project Title**
 
